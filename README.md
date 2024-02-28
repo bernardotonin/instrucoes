@@ -33,12 +33,12 @@
 [PyAutoGui](https://pyautogui.readthedocs.io/en/latest/)<br>
 [Documentação do Python](https://docs.python.org/3/)<br>
 [MouseInfo](https://mouseinfo.readthedocs.io/en/latest/)<br>
-	> Passo a passo do MouseInfo:
-	> 1 - Abra a prompt de comando<br>
-	> 2 - `pip install mouseinfo` -> instala o pacote do Mouse Info<br>
-	> 3 - `python3` -> abre o console do python3<br>
-	> 4 - `import mouseinfo` -> importa o modulo do Mouse Info<br>
-	> 5 - `mouseinfo.MouseInfoWindow()` -> chama a função que abre a janela do Mouse Info<br>
-	>
-	> Por que não preciso criar um ambiente virtual para instalar esse pacote?<br>
-	> -> Por padrão, a instalação já cria um ambiente virtual "global", que abriga esses pacotes, independente do diretório em que a prompt de comando está.
+> Passo a passo do MouseInfo:
+> 1 - Abra a prompt de comando<br>
+> 2 - `pip install mouseinfo` -> instala o pacote do Mouse Info<br>
+> 3 - `python3` -> abre o console do python3<br>
+> 4 - `import mouseinfo` -> importa o modulo do Mouse Info<br>
+> 5 - `mouseinfo.MouseInfoWindow()` -> chama a função que abre a janela do Mouse Info<br>
+>
+> Por que não preciso criar um ambiente virtual para instalar esse pacote?<br>
+> -> Por padrão, a instalação já cria um ambiente virtual "global", que abriga esses pacotes, independente do diretório em que a prompt de comando está.
