@@ -23,7 +23,7 @@
 	> [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) -> Padrão de mercado das mensagens de commit 
 6. `git branch -M main` -> Muda o nome da branch, que por padrão é master, para main.
 7. `git remote add origin https://github.com/<seu usuário>/<repositorio>.git` -> Adiciona um repositório remoto no repositório local ([Onde conseguir esse link](https://i.imgur.com/9fRWz6t.png))
-8. `git push -u origin main` -> Envia as alterações para o repositório remoto<br />
+8. `git push -u origin main` -> Envia as alterações para o repositório remoto <br>
 	> Autenticação:
 	> Git Credential Manager: Se o GCM estivar instalado, ao executar o push, uma janela vai abrir pedindo para se autenticar pelo navegador.
 	Comandos: ao executar o push, o Git vai solicitar seu usuário do GitHub e a senha, que nesse caso será o token, que pode ser criado [nesse link](https://github.com/settings/tokens). (Obs: criar o token [clássico](https://i.imgur.com/1c2HsNc.png))
@@ -33,13 +33,13 @@
 [PyAutoGui](https://pyautogui.readthedocs.io/en/latest/)<br />
 [MouseInfo](https://mouseinfo.readthedocs.io/en/latest/)<br />
 > Passo a passo do MouseInfo:
-> 1 - Abra a prompt de comando
-> 2 - `pip install mouseinfo` -> instala o pacote do Mouse Info
-> 3 - `python3` -> abre o console do python3
-> 4 - `import mouseinfo` -> importa o modulo do Mouse Info
-> 5 - `mouseinfo.MouseInfoWindow()` -> chama a função que abre a janela do Mouse Info
+> 1 - Abra a prompt de comando<br>
+> 2 - `pip install mouseinfo` -> instala o pacote do Mouse Info<br>
+> 3 - `python3` -> abre o console do python3<br>
+> 4 - `import mouseinfo` -> importa o modulo do Mouse Info<br>
+> 5 - `mouseinfo.MouseInfoWindow()` -> chama a função que abre a janela do Mouse Info<br>
 >
-> Por que não preciso criar um ambiente virtual para instalar esse pacote?
+> Por que não preciso criar um ambiente virtual para instalar esse pacote?<br>
 > -> Por padrão, a instalação já cria um ambiente virtual "global", que abriga esses pacotes, independente do diretório em que a prompt de comando está.
 
 [Documentação do Python](https://docs.python.org/3/)
