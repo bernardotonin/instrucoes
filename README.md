@@ -5,7 +5,7 @@
 2. `cd <endereço que você copiou>`
 3. `python3 -m venv env` -> Cria o ambiente virtual do Python
 4. `call .\env\Scripts\activate.bat` -> Ativa o ambiente virtual
-5. Pronto, agora basta instalar os pacotes desejados com `pip install <nome-do-pacote>`<br />
+5. Pronto, agora basta instalar os pacotes desejados com `pip install <nome-do-pacote>` \
 	> Nota:
 	> Lembrando que em ambientes proxy, é necessário usar a flag --proxy, exemplo: 
 	`pip install --proxy http://usuario:senha@<proxy-server>:<port> <nome-do-pacote>`
