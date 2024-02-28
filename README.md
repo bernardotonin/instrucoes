@@ -9,7 +9,7 @@
 <br>
 > Nota:
 > Lembrando que em ambientes proxy, é necessário usar a flag --proxy, exemplo: 
-`pip install --proxy http://usuario:senha@<proxy-server>:<port> <nome-do-pacote>`
+> `pip install --proxy http://usuario:senha@<proxy-server>:<port> <nome-do-pacote>`
 > O pip também permite instalação de varios pacotes, separando por espaços:
 > `pip install <nome-do-pacote> <nome-do-pacote> ...` 
 
