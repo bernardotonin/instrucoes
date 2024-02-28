@@ -29,10 +29,10 @@
 	Comandos: ao executar o push, o Git vai solicitar seu usuário do GitHub e a senha, que nesse caso será o token, que pode ser criado [nesse link](https://github.com/settings/tokens). (Obs: criar o token [clássico](https://i.imgur.com/1c2HsNc.png))
 
 ## Links úteis
-[Pypi](https://pypi.org/)<br />
-[PyAutoGui](https://pyautogui.readthedocs.io/en/latest/)<br />
-[Documentação do Python](https://docs.python.org/3/)
-[MouseInfo](https://mouseinfo.readthedocs.io/en/latest/)<br />
+[Pypi](https://pypi.org/)<br>
+[PyAutoGui](https://pyautogui.readthedocs.io/en/latest/)<br>
+[Documentação do Python](https://docs.python.org/3/)<br>
+[MouseInfo](https://mouseinfo.readthedocs.io/en/latest/)<br>
 > Passo a passo do MouseInfo:
 > 1 - Abra a prompt de comando<br>
 > 2 - `pip install mouseinfo` -> instala o pacote do Mouse Info<br>
