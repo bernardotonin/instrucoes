@@ -31,6 +31,7 @@
 ## Links úteis
 [Pypi](https://pypi.org/)<br />
 [PyAutoGui](https://pyautogui.readthedocs.io/en/latest/)<br />
+[Documentação do Python](https://docs.python.org/3/)
 [MouseInfo](https://mouseinfo.readthedocs.io/en/latest/)<br />
 > Passo a passo do MouseInfo:
 > 1 - Abra a prompt de comando<br>
@@ -41,5 +42,3 @@
 >
 > Por que não preciso criar um ambiente virtual para instalar esse pacote?<br>
 > -> Por padrão, a instalação já cria um ambiente virtual "global", que abriga esses pacotes, independente do diretório em que a prompt de comando está.
-
-[Documentação do Python](https://docs.python.org/3/)
