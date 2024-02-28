@@ -17,12 +17,13 @@
 1. `cd <pasta desejada>`
 2. `git init` -> Inicia o repositório local Git
 3. `git add .` -> Adiciona todos os arquivos untracked
-4. `git commit -m "<mensagem-desejada>"` -> Commita alterações<br />
+4. `git commit -m "<mensagem-desejada>"` -> Commita alterações<br>
+
 	> Nota:
 	> [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) -> Padrão de mercado das mensagens de commit 
-5. `git branch -M main` -> Muda o nome da branch, que por padrão é master, para main.
-6. `git remote add origin https://github.com/<seu usuário>/<repositorio>.git` -> Adiciona um repositório remoto no repositório local ([Onde conseguir esse link](https://i.imgur.com/9fRWz6t.png))
-7. `git push -u origin main` -> Envia as alterações para o repositório remoto<br />
+6. `git branch -M main` -> Muda o nome da branch, que por padrão é master, para main.
+7. `git remote add origin https://github.com/<seu usuário>/<repositorio>.git` -> Adiciona um repositório remoto no repositório local ([Onde conseguir esse link](https://i.imgur.com/9fRWz6t.png))
+8. `git push -u origin main` -> Envia as alterações para o repositório remoto<br />
 	> Autenticação:
 	> Git Credential Manager: Se o GCM estivar instalado, ao executar o push, uma janela vai abrir pedindo para se autenticar pelo navegador.
 	Comandos: ao executar o push, o Git vai solicitar seu usuário do GitHub e a senha, que nesse caso será o token, que pode ser criado [nesse link](https://github.com/settings/tokens). (Obs: criar o token [clássico](https://i.imgur.com/1c2HsNc.png))
